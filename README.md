@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jeremiah
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 Coding is my passion
+- 🌱 I’m currently learning python and html/css
